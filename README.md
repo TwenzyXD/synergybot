@@ -1,0 +1,2 @@
+# synergybot
+Music Bot
